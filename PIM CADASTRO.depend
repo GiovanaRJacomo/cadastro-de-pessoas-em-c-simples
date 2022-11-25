@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668811558 source:c:\users\giova\onedrive\documentos\pim cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
